@@ -19,4 +19,5 @@ def inverter_string(pilha):
 
     print(invertida)
 
+
 inverter_string("Hello")
